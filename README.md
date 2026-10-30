@@ -207,8 +207,10 @@ Next goals: ping test between all machines, take snapshots of each, and begin Nm
 
 ---
 ##SCREENSHOTS
+![](Screenshot 2026-10-30 190741.png)
 ![]()
 ---
+
 ## ⚠️ Ethical Use Disclaimer
 
 This lab is for **education and legal practice only**. I only test systems that I own or have explicit permission to test. Using these tools against anyone else's systems is illegal.
