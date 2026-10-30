@@ -206,7 +206,9 @@ Additional machines will join the same `10.0.0.0/24` network to build a full att
 Next goals: ping test between all machines, take snapshots of each, and begin Nmap scanning practice.
 
 ---
-
+##SCREENSHOTS
+![]()
+---
 ## ⚠️ Ethical Use Disclaimer
 
 This lab is for **education and legal practice only**. I only test systems that I own or have explicit permission to test. Using these tools against anyone else's systems is illegal.
