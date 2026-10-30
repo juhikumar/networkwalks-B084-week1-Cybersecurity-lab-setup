@@ -208,7 +208,8 @@ Next goals: ping test between all machines, take snapshots of each, and begin Nm
 ---
 ##SCREENSHOTS
 ![](Screenshot 2026-10-30 190741.png)
-![]()
+![](Screenshot 2026-10-30 190848.png)
+
 ---
 
 ## ⚠️ Ethical Use Disclaimer
