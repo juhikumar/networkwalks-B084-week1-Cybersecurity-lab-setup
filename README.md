@@ -206,9 +206,21 @@ Additional machines will join the same `10.0.0.0/24` network to build a full att
 Next goals: ping test between all machines, take snapshots of each, and begin Nmap scanning practice.
 
 ---
-##SCREENSHOTS
-![](Screenshot 2026-10-30 190741.png)
-![](Screenshot 2026-10-30 190848.png)
+## 📸 Screenshots
+
+![Screenshot 1](Screenshot%202026-10-30%20190741.png)
+
+![Screenshot 2](Screenshot%202026-10-30%20190848.png)
+
+![Screenshot 3](Screenshot%202026-10-30%20191053.png)
+
+![Screenshot 4](Screenshot%202026-10-30%20193500.png)
+
+![Screenshot 5](VirtualBox_kali-linux-2026.3-virtualbox-amd64_FULL_NAME_1.png)
+
+![Screenshot 6](VirtualBox_kali-linux-2026.3-virtualbox-amd64_FULL_NAME_2.png)
+
+![Screenshot 7](VirtualBox_kali-linux-2026.3-virtualbox-amd64_FULL_NAME_3.png)
 
 ---
 
